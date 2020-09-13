@@ -18,4 +18,4 @@ In this case study, we will first download a DNA strand as a text file from a pu
 
 This technique can be implemented in biological and health science for curing Variant calling,Genome annotation and variant classification, Phenotype-to-genotype mapping,Genotype-to-phenotype prediction,and many more dieseses like cancer, alzheimer, and many more.
 
-Pull Request
+Pull Reques
