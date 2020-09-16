@@ -16,5 +16,5 @@ Each unique three character sequence of nucleotides,sometimes called a nucleotid
 
 In this case study, we will first download a DNA strand as a text file from a public web-based repository of DNA sequences.We will then write code to translate the DNA sequence to a sequence of amino acids where each amino acid is represented by a unique letter.We will also download the amino acid sequence to check our solution.
 
-This technique can be implemented in biological and health science for curing Variant calling,Genome annotation and variant classification, Phenotype-to-genotype mapping,Genotype-to-phenotype prediction,and many more dieseses like cancer, alzheimer, and many more. 
+This technique can be implemented in biological and health science for curing Variant calling,Genome annotation and variant classification, Phenotype-to-genotype mapping,Genotype-to-phenotype prediction,and many more dieseses like cancer, alzheimer, and many more.  
 #
