@@ -9,7 +9,7 @@ Translate the DNA->RNA->Protein : dataset : https://www.ncbi.nlm.nih.gov/
 
 Nucleotide sample : (NM_207618.2) |  link: https://www.ncbi.nlm.nih.gov/nuccore/NM_207618.2
 
-
+#
 
 Life depends on the ability of cells to store, retrieve, and translate genetic instructions.These instructions are needed to make and maintain living organisms.For a long time, it was not clear what molecules were able to copy and transmit genetic information.We now know that this information is carried by the dioxyribonucleic acid or DNA in all living things.
 
