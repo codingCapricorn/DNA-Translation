@@ -1,7 +1,6 @@
 # DNA-Translation
 
 #### DNA Translation Analysis Using ML
-
 #
 #
 
