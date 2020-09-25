@@ -1,5 +1,5 @@
 # DNA-Translation
-#### DNA Translation Analysis Using ML
+### DNA Translation Analysis Using ML
 #
 #
 Translate the DNA->RNA->Protein : dataset : https://www.ncbi.nlm.nih.gov/ 
