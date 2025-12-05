@@ -4,7 +4,7 @@ Translate the DNA->RNA->Protein || dataset : https://www.ncbi.nlm.nih.gov/
 Nucleotide sample : (NM_207618.2) ||  link: https://www.ncbi.nlm.nih.gov/nuccore/NM_207618.2
 #
 #
-Life depends on the ability of cells to store, retrieve, and translate genetic instructions.These instructions are needed to make and maintain living organisms.For a long time, it was not clear what molecules were able to copy and transmit genetic information.We now know that this information is carried by the dioxyribonucleic acid or DNA in all living things....
+Life depends on the ability of cells to store, retrieve, and translate genetic instructions.These instructions are needed to make and maintain living organisms.For a long time, it was not clear what molecules were able to copy and transmit genetic information.We now know that this information is carried by the dioxyribonucleic acid or DNA in all living things.....
 
 
 DNA is a discrete code physically present in almost every cell of an organism.We can think of DNA as a one dimensional string of characters with four characters to choose from.These characters are A, C, G, and T. They stand for the first letters with the four nucleotides used to construct DNA.The full names of these nucleotides are adenine, cytosine, guanine,and thymine.
